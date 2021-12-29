@@ -1,0 +1,16 @@
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.exe.config
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.exe
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\bin\Release\CursoWindowsForms.pdb
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_Principal.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.Properties.Resources.resources
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.exe
+C:\Users\wagner\OneDrive\Desktop\Curso Profissionalizante\Alura\Windows Form com C#\Curso\CursoWindowsForms\CursoWindowsForms\obj\Release\CursoWindowsForms.pdb
